@@ -3,7 +3,7 @@
 
 <div class="github-introduction">
 
-Im a **Software Developer** who is  highly motivated , Possess strong engineering fundamentals and strong programming skills with a proven track record of applying these skills in automation. Demonstrated ability to learn new technologies quickly and apply them to solve complex problems. Almost i spend most of the time on errors and debugging , I think it was cool. 😎
+Im a **Software Developer** who is  highly motivated , Possess strong engineering fundamentals and programming skills with a proven track record of applying these skills in automation. Demonstrated ability to learn new technologies quickly and apply them to solve complex problems. Almost i spend most of the time on errors and debugging , I think it was cool. 😎
 
 </div>
 
