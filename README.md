@@ -22,13 +22,12 @@ Im a **Software Developer** who is  highly motivated , Possess strong engineerin
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql&logoColor=#4479A1)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=#4479A1)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
-![YAML](https://img.shields.io/badge/-YAML-000000?style=flat&logo=yaml&logoColor=#000000)
 ![PlantUML](https://img.shields.io/badge/-PlantUML-000000?style=flat&logo=plantuml&logoColor=#32C850)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-000000?style=flat&logo=microsoft-excel&logoColor=#217346)
 
 </div>
 
-## 🌐 Socials
+## 🌐 Social Links
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_drag_xagger__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samdanshaik) 
 
 ## 💳 Github Profile Summary Card
@@ -44,3 +43,5 @@ Im a **Software Developer** who is  highly motivated , Possess strong engineerin
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=tokyonight&hide_border=true" alt="samdan's Streak" height="165">
   </p>
 </div>
+
+
