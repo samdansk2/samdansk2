@@ -44,4 +44,7 @@ Im a **Software Developer** who is  highly motivated , Possess strong engineerin
   </p>
 </div>
 
+### ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=&quote=live%20in%20errors,%gives%20you%20tremendous%20knowledge.)
 
