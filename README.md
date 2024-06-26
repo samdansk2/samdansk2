@@ -46,5 +46,5 @@ Im a **Software Developer** who is  highly motivated , Possess strong engineerin
 
 ### ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=&quote=Code%20has%20a%20magnetic%ability%20to%20draw%20money.)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=&quote=Code%20has%20a%20magnetic%20ability%20to%20draw%20money.)
 
