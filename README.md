@@ -7,7 +7,7 @@ Im a **Software Developer** who is  highly motivated , Possess strong engineerin
 
 </div>
 
-- 📫 How to reach me: Check it out my social links.
+- 📫 How to reach me: Check it out my public links.
 - ⚡ Fun fact: Reading funny memes on social media.
 -  💬 Curious? Just ask!
 
@@ -40,7 +40,7 @@ Im a **Software Developer** who is  highly motivated , Possess strong engineerin
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=tokyonight&hide_border=true" alt="samdan's Streak" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=tokyonight&hide_border=true" alt="Samdan's Streak" height="165">
   </p>
 </div>
 
