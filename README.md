@@ -31,14 +31,14 @@ Im a **Software Developer** who is  highly motivated , Possess strong engineerin
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_drag_xagger__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samdanshaik) 
 
 ## 💳 Github Profile Summary Card
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdansk2&theme=vue"/>
 </p>
 
 ## 📈 My GitHub stats
 
 <div class="badges-githubstats">
-  <p align="center">
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=tokyonight&hide_border=true" alt="Samdan's Streak" height="165">
   </p>
@@ -46,5 +46,5 @@ Im a **Software Developer** who is  highly motivated , Possess strong engineerin
 
 ### ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=&quote=Code%20has%20a%20magnetic%20ability%20to%20draw%20money.)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=&quote=Code%20has%20a%20magnetic%20ability%20to%20draw%20attention.)
 
