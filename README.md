@@ -33,10 +33,10 @@ Im a **Software Developer** who is  highly motivated , Possess strong engineerin
 ## 💳 GitHub Profile Summary Card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdansk2&theme=react)
 
-## Top Languages & Commits
+## 🌌 Top Languages & Commits
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samdansk2&theme=react)    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samdansk2&theme=react&utcOffset=5)
 
-## 📈 My GitHub stats
+## 📈 My GitHub Stats
 
 <div class="badges-githubstats">
   <p align="left">
