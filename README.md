@@ -30,17 +30,18 @@ Im a **Software Developer** who is  highly motivated , Possess strong engineerin
 ## 🌐 Social Links
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_drag_xagger__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samdanshaik) 
 
-## 💳 Github Profile Summary Card
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdansk2&theme=vue"/>
-</p>
+## 💳 GitHub Profile Summary Card
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdansk2&theme=react)
+
+## Top Languages & Commits
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samdansk2&theme=react)    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samdansk2&theme=react&utcOffset=5)
 
 ## 📈 My GitHub stats
 
 <div class="badges-githubstats">
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=tokyonight&hide_border=true" alt="Samdan's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=react&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=react&hide_border=true" alt="Samdan's Streak" height="165">
   </p>
 </div>
 
