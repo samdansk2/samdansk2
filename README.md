@@ -3,7 +3,7 @@
 
 <div class="github-introduction">
 
-A **Software Developer** with solid engineering knowledge, programming skills and a knack for automation. Quick to learn and apply new technologies to solve challenging problems. Enjoys, Passionate about the art of debugging, considering it essential to perfecting code.😎
+A **Software Developer** with solid engineering knowledge, programming skills and a knack for automation. Quick to learn and apply new technologies to solve challenging problems. Always eager to refine skills and committed to continuous learning. Enjoys, Passionate about the art of debugging, considering it essential to perfecting code.😎
 
 </div>
 
