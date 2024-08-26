@@ -1,6 +1,3 @@
-
-
-
 # Hi, I'm Samdan 👋
 ![Profile views](https://komarev.com/ghpvc/?username=samdansk2&label=Profile%20views&color=60598F&style=flat)
 
