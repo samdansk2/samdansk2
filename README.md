@@ -37,7 +37,8 @@ A **Software Developer** with solid engineering knowledge, programming skills an
 
 <div>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=react&hide_border=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=react&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=react&hide_border=true" height=175>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=react&hide_border=true" height=175>
   </p>
 </div>
 
