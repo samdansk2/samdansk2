@@ -33,15 +33,12 @@ A **Software Developer** with solid engineering knowledge, programming skills an
 ## 💳 GitHub Profile Summary Card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdansk2&theme=react)
 
-## 🌌 Top Languages & Commits
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samdansk2&theme=react)    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samdansk2&theme=react&utcOffset=5)
+## 📈 GitHub Stats
 
-## 📈 My GitHub Stats
-
-<div class="badges-githubstats">
+<div>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=react&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=react&hide_border=true" alt="Samdan's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=react&hide_border=true" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=react&hide_border=true">
   </p>
 </div>
 
