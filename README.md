@@ -28,7 +28,7 @@ A **Software Developer** with solid engineering knowledge, programming skills an
 </div>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_drag_xagger__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samdanshaik) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_drag__xagger_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samdanshaik) 
 
 ## 💳 GitHub Profile Summary Card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdansk2&theme=react)
