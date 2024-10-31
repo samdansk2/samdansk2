@@ -22,20 +22,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,github,git,mysql,regex,selenium,vscode)](https://skillicons.dev)
 
-<!-- <hr></hr> -->
-<br>
-<!-- <details> -->
-<div align="center" width="50"><br>
-<h2 align="center" style="font-family: 'Poppins', sans-serif;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats⚡ </b>
-</h2>
+## 📈 GitHub Stats
+<div>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=yeblu&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=yeblu&hide_border=true" alt="Samdan's Streak" height="165">
+  </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samdansk2&show_icons=true&locale=en&layout=compact&theme=react" alt="samdansk2" </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samdansk2&show_icons=true&locale=en&theme=react" alt="samdansk2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=react" alt="samdansk2" /></p></br>
-<!-- </details> -->
-<hr></hr>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samdansk2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
