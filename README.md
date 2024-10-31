@@ -22,11 +22,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,github,git,mysql,regex,selenium,vscode)](https://skillicons.dev)
 
-## 📈 GitHub Stats
+
+
+## 📊 GitHub Stats
 <div>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=yeblu&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=yeblu&hide_border=true" alt="Samdan's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=ambient_gradient&hide_border=true" alt="Samdan's Streak" height="165">
   </p>
 </div>
 
