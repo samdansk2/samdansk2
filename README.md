@@ -1,10 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Samdan</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=Software Developer!!;Problem+Solver;" alt="Typing Animation">
 </div>
 
-<img align= "right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0a077af0-d14d-4976-97af-810c8eb12685">
+<img align= "right" width="400" src="https://github.com/user-attachments/assets/e63cc83f-8ffc-4b27-b2f6-d20089a3b0ec">
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=samdansk2&label=Profile%20views&color=60598F&style=flat)
