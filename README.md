@@ -10,7 +10,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=samdansk2&label=Profile%20views&color=60598F&style=flat)
 
-- 🔭 Currently working on **WebScraping StockAnalysis** projects
+- 🔭 Currently working on **WebScraping Stockmarket** projects
 - 🌱 Expanding my skill set with **Python** and **Data Science**
 -  💡 Crafting intuitive, immersive experiences with a focus on aesthetics and function
 - ✨ Navigating the realms of Data Science, ML and Generative AI 🚀 — shaping the future, one model at a time.
