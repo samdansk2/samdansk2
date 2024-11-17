@@ -44,5 +44,6 @@
 <div>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=ambient_gradient&hide_border=false" height="165">
   </p>
 </div>
