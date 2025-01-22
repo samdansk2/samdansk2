@@ -12,12 +12,13 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=flat&logo=jupyter&logoColor=#F37626)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
-![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium&logoColor=#43B02A)
+![VScode](https://img.shields.io/badge/-VScode-000000?style=flat&logo=vscode&logoColor=#43B02A)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=#F05032)
 ![Regex](https://img.shields.io/badge/-Regex-000000?style=flat&logo=regex&logoColor=#A12312)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=#000000)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=#4479A1)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
+![CSS](https://img.shields.io/badge/-css-000000?style=flat&logo=Css&logoColor=#E34F26)
 
 
 </div>
@@ -25,7 +26,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Software Developer, Currently working on **WebScraping** projects
+- :computer: I'm a Software Developer, Currently working on **AI agents** 
 - :hourglass_flowing_sand: Exploring Data Science & Python
 - :dart: Life Hack: "Explore :fire: and strive :bomb: for knowledge"
 - :zap: Fun fact: love to read memes<br>
@@ -38,9 +39,6 @@
 
 
 ## 📊 GitHub Stats
-<div>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdansk2&theme=ambient_gradient&hide_border=false" height="165">
-  </p>
-</div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samdansk2&show_icons=true&locale=en" alt="samdansk2" /></p>
+
