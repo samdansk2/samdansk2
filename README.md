@@ -7,7 +7,10 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/samdanshaik/" title="LinkedIn Profile"><img width="22" src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon-thumbnail.png"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/samdanshaik8998" title="HackerRank Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"> HackerRank</a></code>
-  <code><a href="https://www.instagram.com/_rebel_boyy/" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png"> Instagram</a></code>
+  <a href="mailto:ace.samdan@gmail.com" title="Send Email">
+    <img width="22" src="https://thumbs.dreamstime.com/z/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg"> Gmail
+</a>
+
 </h5>
 <br>
 
