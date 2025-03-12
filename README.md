@@ -14,7 +14,7 @@
 </h5>
 <br>
 
-<h3 align="left">👨🏻‍💻 Intro :</h3>
+<h4 align="left">👨🏻‍💻 Intro :</h4>
 
 - :computer: I'm a Software Developer, Currently working on **AI agents** 
 - :hourglass_flowing_sand: Exploring Data Science & Python
@@ -22,8 +22,8 @@
 - :zap: Fun fact: love to read memes<br>
 -  💡 Crafting immersive experiences with a focus on aesthetics<br>
 
-<details>
-  <summary><strong>🛠 Technologies and Tools</strong></summary>
+
+  <h4 align="left">🛠 Technologies and Tools</h4>
 
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB)
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=flat&logo=jupyter&logoColor=F37626)
@@ -36,10 +36,14 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=1572B6)
 
-</details>
-
 
 <details>
   <summary><strong>📊 GitHub Stats</strong></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=samdansk2&show_icons=true&count_private=true&theme=vue-dark" />
+</details>
+
+
+<details>
+  <summary><strong>🏆 GitHub Trophies</strong></summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=samdansk2&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </details>
