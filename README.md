@@ -16,7 +16,7 @@
 
 <h4 align="left">👨🏻‍💻 Intro :</h4>
 
-- :computer: I'm a Software Developer, Currently working on **AI agents** 
+- :computer: I'm a Software Developer, Currently working on Data & AI projects 
 - :hourglass_flowing_sand: Exploring Data Science & Python
 - :dart: Life Hack: "Explore :fire: and strive :bomb: for knowledge"
 - :zap: Fun fact: love to read memes<br>
